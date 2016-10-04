@@ -1,6 +1,5 @@
 # Objectifs pédagogiques
 * Intégrer du code Js dans une page web
-* 
 
 # Instructions
 Réaliser une calculatrice en Html et Js
@@ -16,7 +15,7 @@ Afficher le résultat dans un élément html dédié.
 
 
 ## Méthode 03
-Réaliser une calculatrice où l'utilisateur peut directement les chiffres et les opérations avec les touches du clavier et procéder au calcul en appuyant sur Entrée.
+Réaliser une calculatrice où l'utilisateur peut directement taper les chiffres et les opérations avec les touches du clavier et procéder au calcul en appuyant sur Entrée.
 
 
 # Notes
